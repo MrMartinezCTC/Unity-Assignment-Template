@@ -1,5 +1,5 @@
-# Unity-Assignment-Template
-_A template repo for Unity assignments_
+# Unity-Template
+_A template repo for Unity projects._
 
 **Includes:** 
 
